@@ -17,7 +17,7 @@ export default function Home() {
           <a href="https://bitcoinerjobsrss.vercel.app/api/rss">RSS link</a>
         </p>
         <p>
-          There is a <a href="https://bitcoinerjobs.co/rss/newjobs.rss">RSS link</a> after all, found it after <a href="https://twitter.com/bordalix/status/1456330194906660869">twit</a>
+          There is a <a href="https://bitcoinerjobs.com/rss/newjobs.rss">RSS link</a> after all, found it after <a href="https://twitter.com/bordalix/status/1456330194906660869">twit</a>
         </p>
         <p>
           <a href="https://github.com/bordalix/bitcoinerjobsrss">Github</a>
